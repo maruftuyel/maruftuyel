@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me. You may email me on maruf.tuyel@gmail.com
 - 😄 Pronouns:
-- ⚡ Fun fact: and enjoy coding
+- ⚡ Fun fact: and enjoy coding and web developing and enjoy!
 
 <!---
 maruftuyel/maruftuyel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
